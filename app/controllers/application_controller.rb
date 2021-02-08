@@ -1,4 +1,4 @@
-# rubocop:disable Layout/EndOfLine
+# rubocop:disable
 class ApplicationController < ActionController::Base
 end
-# rubocop:enable Layout/EndOfLine
+# rubocop:enable

@@ -1,6 +1,6 @@
-# rubocop:disable Layout/EndOfLine
+# rubocop:disable
 class ApplicationMailer < ActionMailer::Base
   default from: 'from@example.com'
   layout 'mailer'
 end
-# rubocop:enable Layout/EndOfLine
+# rubocop:enable
