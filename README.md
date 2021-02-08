@@ -1,24 +1,49 @@
-# README
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Micro-Reddit
 
-Things you may want to cover:
+This project is about making a database clone of the Reddit website.
+The database consists of the following three tables and models:
+- Users
+- Posts
+- Comments
 
-* Ruby version
+<!--![screenshot](img/src.png)-->
 
-* System dependencies
+## Built With
 
-* Configuration
+- Ruby on Rails
 
-* Database creation
+## Getting Started
 
-* Database initialization
+To get started with the project follow the steps below:
+- `git clone git@github.com:SamArsanios/micro_reddit.git`
+- `cd reddit`
+- `git checkout reddit`
+- `bundle install`
+- `bin/rails db:migrate`
+- `bin/rails console`
+- Create instances of User, Post and Comment
+- If you need further assistance for creating instances visit the [Active Record guides](https://guides.rubyonrails.org/active_record_basics.html) of Rails
 
-* How to run the test suite
+## Author
 
-* Services (job queues, cache servers, search engines, etc.)
+👤 **Saima Anis**
 
-* Deployment instructions
+- GitHub: [@saimaAnis21](https://github.com/@saimaAnis21)
+- Twitter: [@SheTALKS](https://twitter.com/@SheTALKS6)
+- LinkedIn: [Saima Anis](https://www.linkedin.com/in/saima-anis-3a07921b2/)
 
-* ...
+👤 **Samson Kibrom**
+- GitHub: [@SamArsanios](https://github.com/SamArsanios)
+- Twitter: [@SamArsanios](https://twitter.com/SamArsanios)
+- LinkedIn: [SamArsanios](https://www.linkedin.com/in/necmigunduz/)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
