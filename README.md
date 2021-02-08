@@ -12,7 +12,7 @@ The database consists of the following three tables and models:
 
 ## Built With
 
-- Ruby on Rails
+![Rails](https://img.shields.io/badge/rails%20-%23CC0000.svg?&style=for-the-badge&logo=ruby-on-rails&logoColor=white)&nbsp;&nbsp;
 
 ## Getting Started
 
