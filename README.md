@@ -21,8 +21,8 @@ To get started with the project follow the steps below:
 - `cd reddit`
 - `git checkout reddit`
 - `bundle install`
-- `bin/rails db:migrate`
-- `bin/rails console`
+- `rails db:migrate`
+- `rails console`
 - Create instances of User, Post and Comment
 - If you need further assistance for creating instances visit the [Active Record guides](https://guides.rubyonrails.org/active_record_basics.html) of Rails
 
