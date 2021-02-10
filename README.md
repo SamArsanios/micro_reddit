@@ -37,7 +37,7 @@ To get started with the project follow the steps below:
 👤 **Samson Kibrom**
 - GitHub: [@SamArsanios](https://github.com/SamArsanios)
 - Twitter: [@SamArsanios](https://twitter.com/SamArsanios)
-- LinkedIn: [SamArsanios](https://www.linkedin.com/in/necmigunduz/)
+- LinkedIn: [SamArsanios](https://www.linkedin.com/in/samson-kibrom/)
 
 ## 🤝 Contributing
 
